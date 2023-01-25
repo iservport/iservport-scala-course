@@ -1,0 +1,17 @@
+= Coming from other languages
+
+General advice:
+
+* Keep it simple, as there is a confusing number of possibilities.
+* look for construction blocks available that you already know;
+ ** e.g. a loop can be converted using combinators like map and filter,
+ ** or you can write a recursive function.
+* move statements into expressions.
+* Move mutable state into immutable and get used to the abstractions used for concurrency;
+ ** e.g. Scala Futures are different to Java Futures as the latter are blocking.
+* Get familiar with SBT.
+* Choose your tooling (Intellij, VSCode, Emacs, etc)
+* Tips for speedy compilation (1k vs 10k local/s):
+ ** The more types you annotate the better, because type inference is costly.
+ ** Fewer implicits sves the compiler resoltion,
+function values -> inner -> top level; moving to J8, which has lambdas.

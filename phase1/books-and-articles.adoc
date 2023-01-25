@@ -1,0 +1,11 @@
+= Books and Articles
+
+* https://a.co/d/dV5l4eG[Scala for the Impatient]
+* https://a.co/d/gTbRjNk[Programming in Scala]
+* https://a.co/d/gr0u2O9:[Atomic Scala]
+* https://www.youtube.com/rockthejvm[Rock the JVM]
+* https://www.coursera.org/specializations/scala[Functional Programming in Scala Specialization]
+* https://devinsideyou.com/[Improve the Developer Inside You]
+* https://typelevel.org/cats[Typelevel Cats]
+* https://typelevel.org/cats-effect[Cats Effect]
+* https://zio.dev/resources[ZIO Resources]

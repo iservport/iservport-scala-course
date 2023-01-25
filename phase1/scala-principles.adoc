@@ -1,0 +1,7 @@
+= Scala Principles
+
+* Expressions are composable, so everything in Scala is an expression.
+* Pattern matching is the dual of composition.
+* Everything can be grouped and nested, resulting in conciseness (or confusion).
+* Functions are abstracted expressions.
+* Uniform set of operations to transform data.

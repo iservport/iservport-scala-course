@@ -1,0 +1,3 @@
+= Real world problems
+
+They are taken from the current client requirements, developed in pairs with optional mentoring.

@@ -1,0 +1,34 @@
+= Phase 2 Overview
+
+== Common libraries and frameworks
+
+* Akka
+** Akka Classic
+** Akka Typed
+* Akka Http
+* Akka Streams
+** Alpakka
+* Play Framework
+** Typesafe Config
+** Reactive Mongo
+** Json
+* Slick
+* Quill
+* Doobie
+* ScalikeJdbc
+* Http4s
+* Monix
+* Fs2
+* ScalaPB
+* Cats
+** Cats Effect
+* Spark
+* Zio
+** Zio ecosystem
+
+== Front End References
+
+* Scalajs
+* Laminar
+
+

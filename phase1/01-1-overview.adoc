@@ -1,0 +1,15 @@
+= Phase 1 Overview
+
+* link:books-and-articles.adoc[Books and articles]
+* link:comming-from-other-languages.adoc[Comming from other languages]
+* link:scala-principles.adoc[Principles]
+* Types and higher kinded types
+** Type constructors
+* Immutable state
+ ** The problem of global state and hidden dependencies.
+ ** Persisting and caching.
+* Invariance, generics, covariance and contravariance
+* Implicits
+* Scala 2.x compared to Scala 3.x
+* Streaming
+
