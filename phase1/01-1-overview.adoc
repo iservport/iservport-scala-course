@@ -1,15 +1,106 @@
 = Phase 1 Overview
 
+== References
+
 * link:books-and-articles.adoc[Books and articles]
 * link:comming-from-other-languages.adoc[Comming from other languages]
 * link:scala-principles.adoc[Principles]
-* Types and higher kinded types
-** Type constructors
+
+== Workshops
+
+=== Workshop 1
+
 * Immutable state
- ** The problem of global state and hidden dependencies.
- ** Persisting and caching.
-* Invariance, generics, covariance and contravariance
+** The problem of global state and hidden dependencies.
+** Side-effects.
+* Everything is an expression
+** String interpolation
+* SBT
+** Structure
+* Infix notation
+* Types
+** Any, AnyVal, AnyRef, Nothing, Null, Nil
+** Traits (mix-ins)
+** Lazy evaluation
+** Aliases
+** Self-types
+* The apply method
+* Reflection
+
+=== Workshop 2
+
+* SBT
+** Plugins
+** Modules
+* Data types
+** Case classes
+** Companion objects
+** Boiler plate
+* Types
+** Higher kinded types
+** Collections
+** Variance, Covariance, Contravariance
+** Type boundaries
+* Combinators
+** fold
+** foldLeft
+* Nulls and Exceptions management
+* Recursion
+** Tail recursion
+
+=== Workshop 3
+
+* Resource management
+* Tuples
+* Interoperationg with Java
 * Implicits
-* Scala 2.x compared to Scala 3.x
-* Streaming
+** Scopes
+** Implicit resolution
+** Implicit conversion
+** Currying
+
+=== Workshop 4
+
+* Concurrency and parallelism
+* Execution context
+** Futures
+* Syntax sugar
+** Placeholders
+** Functions as classes
+** For-comprehensions
+** Operators
+* Decomposition
+** Pattern matching
+** the unnaply method
+** Regex
+** Collections
+
+== Workshop 5
+
+* FP concepts
+** Referential transparency
+** Pure functions
+** Effects and Side Effects
+* Ad-hoc polymorphism
+** Typeclasses
+* Containers
+** Type constructors
+** Semigroups, Functors, Applicatives, and Monads
+* Partially applied functions
+* Macros
+* Test
+** TDD vs BDD
+** Specs
+** Scalatest
+** Scalacheck
+** Mockito or ScalaMock
+
+== Advanced topics
+
+* Type lambdas and the Kind Projector plugin
+* Cake pattern
+* Typeclass derivation
+* Gatling
+
+== Exam
 

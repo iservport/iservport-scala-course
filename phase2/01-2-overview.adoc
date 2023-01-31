@@ -19,10 +19,11 @@
 * Http4s
 * Monix
 * Fs2
-* ScalaPB
+* ScalaPB (gRPC)
 * Cats
 ** Cats Effect
 * Spark
+* Magnolia and Shapeless
 * Zio
 ** Zio ecosystem
 
@@ -31,4 +32,10 @@
 * Scalajs
 * Laminar
 
+=== Projects
+
+* API Gateway
+* Game
+* Streaming
+* [.line-through]#Scala-3#
 

@@ -1,0 +1,16 @@
+= API Gateway
+
+== Goals
+
+== Concepts
+
+* Basic project setup.
+* Database persistence.
+* Connection to external APIs
+* Local API
+
+== Options
+
+* Play Framework with Slick
+* Http4s with Doobie
+* ZIO Http with Quill
